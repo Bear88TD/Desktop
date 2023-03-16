@@ -1,0 +1,22 @@
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.exe.config
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.exe
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.pdb
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.exe
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.pdb
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài_2.MainForm.resources
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.AssemblyReference.cache
+C:\Users\CICT\Downloads\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.exe.config
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.exe
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.pdb
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài_2.MainForm.resources
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.exe
+C:\Users\asus\Downloads\Desktop\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.pdb
